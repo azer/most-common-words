@@ -98,5 +98,12 @@ module.exports = [
   "give",
   "day",
   "most",
-  "us"
+  "us",
+  "here",
+  "such",
+  "much",
+  "yet",
+  "very",
+  "every",
+  "many"
 ];
