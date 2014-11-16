@@ -1,0 +1,20 @@
+{
+  "name": "most-common-words",
+  "version": "0.0.0",
+  "description": "List of Most Common English Words",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "english",
+    "common",
+    "words"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/most-common-words.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
